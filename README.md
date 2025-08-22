@@ -2,7 +2,7 @@
 ![Visitor Badge](https://komarev.com/ghpvc/?username=harsh-dhakr&label=Visitors&color=0e75b6&style=flat)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Harshit+Malav!;Full-Stack+Developer+%7C+CS+Undergrad;Let’s+build+something+awesome+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Harshit+Malav!;Full-Stack+Developer+%7C+CS+Student;Let’s+build+something+awesome+🚀" alt="Typing SVG" />
 </p>
 
 ---

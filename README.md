@@ -26,11 +26,11 @@
 ## 🛠️ Tech Stack
 
 **Languages**: `C` `Python`  
-**Frontend**: `HTML` `CSS`  
+**Frontend**: `HTML` `CSS` `Bootstrap` `Tailwind`
 **Backend**: `Flask` `Django`  
-**Database**: `MySQL`  
-**Tools**: `Git` `Postman`  
-**Libraries/Software**: `MATLAB` `AutoCAD` `Pandas`  
+**Database**: `MySQL` `SQL` 
+**Tools**: `Git`   
+**Libraries/Software**: `Numpy` `Seaborn`  `Pandas`  
 
 ---
 
